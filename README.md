@@ -20,6 +20,9 @@
 <a name="section-id2"></a>
 
 
+### 2021
+- Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study [[TIM 2021](https://ieeexplore.ieee.org/document/9552620)] [[Github]( https://github.com/ZhaoZhibin/UDTL)]
+
 
 
 ###  Research Papers for PHM-with-Self-supervision 
